@@ -10,8 +10,6 @@ O **Login-Formulario-TypeScript** é um projeto desenvolvido com o objetivo de c
 
 **Design Responsivo**: O layout do formulário é adaptável para diferentes tamanhos de tela, proporcionando uma boa experiência do usuário em dispositivos móveis e desktops.
 
-**Feedback ao Usuário**: Exibe mensagens de erro claras e informativas quando os campos não são preenchidos corretamente.
-
 **Uso de TypeScript**: Tipagem estática para maior segurança e clareza no código.
 
 ## Tecnologias Utilizadas
